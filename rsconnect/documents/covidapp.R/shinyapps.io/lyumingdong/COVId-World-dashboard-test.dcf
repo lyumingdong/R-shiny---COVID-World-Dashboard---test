@@ -1,0 +1,14 @@
+name: COVId-World-dashboard-test
+title: COVId-World-dashboard-test
+username:
+account: lyumingdong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6873070
+bundleId: 6249560
+url: https://lyumingdong.shinyapps.io/COVId-World-dashboard-test/
+when: 1661809549.4238
+lastSyncTime: 1661809549.42381
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|app - Copy.R|desktop.ini|jhu_data_daily_cases.R|README.md|archive_30March2020
